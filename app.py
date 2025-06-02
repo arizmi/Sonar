@@ -68,7 +68,7 @@ def process_data(df):
 
     # Format values after grouping
     df['Volume'] = df['Volume'].apply(lambda x: f"{int(x):,}")
-    df['Price'] = df['Price'].apply(lambda x: f"{x:.5f}" if pd.notnull(x) else "")
+    df['Price'] = df['Price'].apply(lambda x: f"{x:.5f}".rstrip('0').rstrip('.') if pd.notnull(x) else "")
     df['Expiry'] = df['Expiry'].dt.strftime('%d/%m/%Y')
 
     return df
