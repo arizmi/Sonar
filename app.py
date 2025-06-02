@@ -73,14 +73,26 @@ def process_data(df):
 
     return df
 
+from datetime import timedelta
+
 # === ROW HIGHLIGHTING FUNCTION ===
 def highlight_order(row):
-    if row['Order'] == 'CALL':
-        bg = 'rgba(0, 255, 0, 0.10)'  # faint green
+    try:
+        expiry = pd.to_datetime(row['Expiry'], dayfirst=True)
+        days_to_expiry = (expiry - datetime.today()).days
+    except:
+        days_to_expiry = None
+
+    # Expiry within 1 days = pink
+    if days_to_expiry is not None and 0 <= days_to_expiry <= 1:
+        bg = 'rgba(255, 105, 180, 0.10)'  # faint pink (hotpink with 15% opacity)
+    elif row['Order'] == 'CALL':
+        bg = 'rgba(0, 255, 0, 0.15)'  # green
     elif row['Order'] == 'PUT':
-        bg = 'rgba(255, 0, 0, 0.10)'  # faint red
+        bg = 'rgba(255, 0, 0, 0.15)'  # red
     else:
         bg = 'transparent'
+
     return [f'background-color: {bg}; text-align: center;' for _ in row]
 
 # === MAIN APP ===
