@@ -1,0 +1,38 @@
+name: Daily Sonar JSON Export
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Every day at 08:00 UTC
+  workflow_dispatch:
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pandas gspread oauth2client
+
+      - name: Load Google credentials
+        run: echo "$GOOGLE_SHEETS_SECRET" > credentials.json
+        env:
+          GOOGLE_SHEETS_SECRET: ${{ secrets.GOOGLE_SHEETS_SECRET }}
+
+      - name: Run Sonar export script
+        run: python sonar_export_script.py
+
+      - name: Commit and push updated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sonar_blocktrades.json
+          git commit -m "Daily update: sonar_blocktrades.json"
+          git push
