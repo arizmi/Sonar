@@ -397,15 +397,6 @@
   },
   {
     "Trade Date":"2025-06-05",
-    "Pair":"EURUSD",
-    "Order":"PUT",
-    "Price":1.1375,
-    "Volume":30000000.0,
-    "Expiry":"2025-08-08",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-05",
     "Pair":"GBPUSD",
     "Order":"CALL",
     "Price":1.3559,
@@ -681,15 +672,6 @@
     "Price":1.32,
     "Volume":3000000.0,
     "Expiry":"2025-08-27",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-10",
-    "Pair":"GBPUSD",
-    "Order":"PUT",
-    "Price":1.3245,
-    "Volume":10000000.0,
-    "Expiry":"2025-08-08",
     "IsBlockTrade":false
   },
   {
@@ -1581,15 +1563,6 @@
     "Price":0.6,
     "Volume":150000000.0,
     "Expiry":"2026-03-31",
-    "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-06-30",
-    "Pair":"AUDUSD",
-    "Order":"PUT",
-    "Price":0.6565,
-    "Volume":100000000.0,
-    "Expiry":"2025-08-08",
     "IsBlockTrade":true
   },
   {
@@ -2737,15 +2710,6 @@
   },
   {
     "Trade Date":"2025-07-09",
-    "Pair":"USDCAD",
-    "Order":"PUT",
-    "Price":1.375,
-    "Volume":200000000.0,
-    "Expiry":"2025-08-08",
-    "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-07-09",
     "Pair":"USDJPY",
     "Order":"PUT",
     "Price":136.5,
@@ -3142,15 +3106,6 @@
   },
   {
     "Trade Date":"2025-07-11",
-    "Pair":"GBPUSD",
-    "Order":"PUT",
-    "Price":1.329,
-    "Volume":20000000.0,
-    "Expiry":"2025-08-08",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-11",
     "Pair":"USDCAD",
     "Order":"PUT",
     "Price":1.38,
@@ -3423,15 +3378,6 @@
     "Trade Date":"2025-07-15",
     "Pair":"AUDUSD",
     "Order":"CALL",
-    "Price":0.669,
-    "Volume":30000000.0,
-    "Expiry":"2025-08-08",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-15",
-    "Pair":"AUDUSD",
-    "Order":"CALL",
     "Price":0.67,
     "Volume":30000000.0,
     "Expiry":"2025-10-16",
@@ -3561,15 +3507,6 @@
     "Price":1.4,
     "Volume":10000000.0,
     "Expiry":"2025-09-02",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-15",
-    "Pair":"USDCAD",
-    "Order":"CALL",
-    "Price":1.345,
-    "Volume":30000000.0,
-    "Expiry":"2025-08-08",
     "IsBlockTrade":false
   },
   {
