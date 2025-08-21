@@ -939,15 +939,6 @@
     "Trade Date":"2025-06-23",
     "Pair":"EURGBP",
     "Order":"CALL",
-    "Price":0.86,
-    "Volume":100000000.0,
-    "Expiry":"2025-08-21",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-23",
-    "Pair":"EURGBP",
-    "Order":"CALL",
     "Price":0.88,
     "Volume":100000000.0,
     "Expiry":"2025-09-23",
@@ -978,15 +969,6 @@
     "Price":1.11,
     "Volume":20000000.0,
     "Expiry":"2025-08-22",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-23",
-    "Pair":"EURUSD",
-    "Order":"PUT",
-    "Price":1.12,
-    "Volume":100000000.0,
-    "Expiry":"2025-08-21",
     "IsBlockTrade":false
   },
   {
@@ -1093,8 +1075,8 @@
     "Pair":"EURUSD",
     "Order":"PUT",
     "Price":1.11,
-    "Volume":65000000.0,
-    "Expiry":"2025-08-21",
+    "Volume":20000000.0,
+    "Expiry":"2025-08-22",
     "IsBlockTrade":false
   },
   {
@@ -1102,9 +1084,9 @@
     "Pair":"EURUSD",
     "Order":"PUT",
     "Price":1.13,
-    "Volume":150000000.0,
-    "Expiry":"2025-08-21",
-    "IsBlockTrade":true
+    "Volume":120000000.0,
+    "Expiry":"2025-08-22",
+    "IsBlockTrade":false
   },
   {
     "Trade Date":"2025-06-24",
@@ -1695,15 +1677,6 @@
     "Trade Date":"2025-07-01",
     "Pair":"USDJPY",
     "Order":"CALL",
-    "Price":137.0,
-    "Volume":250000000.0,
-    "Expiry":"2025-08-21",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"USDJPY",
-    "Order":"CALL",
     "Price":140.0,
     "Volume":125000000.0,
     "Expiry":"2025-10-01",
@@ -2113,15 +2086,6 @@
     "Volume":10000000.0,
     "Expiry":"2025-09-10",
     "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-08",
-    "Pair":"EURGBP",
-    "Order":"PUT",
-    "Price":0.86,
-    "Volume":160000000.0,
-    "Expiry":"2025-08-21",
-    "IsBlockTrade":true
   },
   {
     "Trade Date":"2025-07-08",
@@ -2625,15 +2589,6 @@
     "Price":1.38,
     "Volume":50000000.0,
     "Expiry":"2026-05-13",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-11",
-    "Pair":"USDJPY",
-    "Order":"PUT",
-    "Price":146.75,
-    "Volume":30000000.0,
-    "Expiry":"2025-08-21",
     "IsBlockTrade":false
   },
   {
