@@ -298,24 +298,6 @@
   },
   {
     "Trade Date":"2025-06-09",
-    "Pair":"EURGBP",
-    "Order":"CALL",
-    "Price":0.8525,
-    "Volume":5000000.0,
-    "Expiry":"2025-09-09",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-09",
-    "Pair":"EURGBP",
-    "Order":"CALL",
-    "Price":0.8675,
-    "Volume":5000000.0,
-    "Expiry":"2025-09-09",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-09",
     "Pair":"EURUSD",
     "Order":"CALL",
     "Price":1.183,
@@ -331,15 +313,6 @@
     "Volume":75000000.0,
     "Expiry":"2025-09-29",
     "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-09",
-    "Pair":"EURUSD",
-    "Order":"PUT",
-    "Price":1.125,
-    "Volume":179500000.0,
-    "Expiry":"2025-09-09",
-    "IsBlockTrade":true
   },
   {
     "Trade Date":"2025-06-09",
@@ -375,15 +348,6 @@
     "Price":1.408,
     "Volume":6500000.0,
     "Expiry":"2026-02-03",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-09",
-    "Pair":"USDJPY",
-    "Order":"CALL",
-    "Price":139.0,
-    "Volume":275000000.0,
-    "Expiry":"2025-09-09",
     "IsBlockTrade":false
   },
   {
@@ -1005,33 +969,6 @@
     "Price":0.9,
     "Volume":30000000.0,
     "Expiry":"2025-10-30",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"EURGBP",
-    "Order":"CALL",
-    "Price":0.8525,
-    "Volume":5000000.0,
-    "Expiry":"2025-09-09",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"EURGBP",
-    "Order":"CALL",
-    "Price":0.8575,
-    "Volume":10000000.0,
-    "Expiry":"2025-09-09",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"EURGBP",
-    "Order":"CALL",
-    "Price":0.8675,
-    "Volume":5000000.0,
-    "Expiry":"2025-09-09",
     "IsBlockTrade":false
   },
   {
@@ -1671,15 +1608,6 @@
     "Price":1.4,
     "Volume":25000000.0,
     "Expiry":"2026-01-08",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-09",
-    "Pair":"USDJPY",
-    "Order":"PUT",
-    "Price":150.0,
-    "Volume":100000000.0,
-    "Expiry":"2025-09-09",
     "IsBlockTrade":false
   },
   {
