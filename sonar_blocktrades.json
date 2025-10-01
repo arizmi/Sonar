@@ -478,15 +478,6 @@
   },
   {
     "Trade Date":"2025-06-25",
-    "Pair":"AUDJPY",
-    "Order":"PUT",
-    "Price":90.0,
-    "Volume":50000000.0,
-    "Expiry":"2025-10-01",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-25",
     "Pair":"AUDUSD",
     "Order":"CALL",
     "Price":0.7,
@@ -766,15 +757,6 @@
   },
   {
     "Trade Date":"2025-07-01",
-    "Pair":"EURUSD",
-    "Order":"PUT",
-    "Price":1.185,
-    "Volume":50000000.0,
-    "Expiry":"2025-10-01",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
     "Pair":"GBPUSD",
     "Order":"PUT",
     "Price":1.265,
@@ -789,24 +771,6 @@
     "Price":1.3775,
     "Volume":100000000.0,
     "Expiry":"2026-07-01",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"USDCHF",
-    "Order":"CALL",
-    "Price":0.7825,
-    "Volume":100000000.0,
-    "Expiry":"2025-10-01",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"USDJPY",
-    "Order":"CALL",
-    "Price":140.0,
-    "Volume":125000000.0,
-    "Expiry":"2025-10-01",
     "IsBlockTrade":false
   },
   {
@@ -1123,15 +1087,6 @@
     "Volume":150000000.0,
     "Expiry":"2025-10-08",
     "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-07-08",
-    "Pair":"USDCHF",
-    "Order":"CALL",
-    "Price":0.7825,
-    "Volume":75000000.0,
-    "Expiry":"2025-10-01",
-    "IsBlockTrade":false
   },
   {
     "Trade Date":"2025-07-08",
