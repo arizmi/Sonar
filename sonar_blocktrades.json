@@ -1126,29 +1126,11 @@
   },
   {
     "Trade Date":"2025-07-11",
-    "Pair":"GBPAUD",
-    "Order":"CALL",
-    "Price":2.103,
-    "Volume":30000000.0,
-    "Expiry":"2025-10-13",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-11",
     "Pair":"USDCAD",
     "Order":"PUT",
     "Price":1.38,
     "Volume":50000000.0,
     "Expiry":"2026-05-13",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-11",
-    "Pair":"USDZAR",
-    "Order":"PUT",
-    "Price":17.15,
-    "Volume":25000000.0,
-    "Expiry":"2025-10-13",
     "IsBlockTrade":false
   },
   {
