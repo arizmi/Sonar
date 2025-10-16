@@ -1,14 +1,5 @@
 [
   {
-    "Trade Date":"2024-10-15",
-    "Pair":"EURUSD",
-    "Order":"PUT",
-    "Price":1.07,
-    "Volume":257000000.0,
-    "Expiry":"2025-10-16",
-    "IsBlockTrade":true
-  },
-  {
     "Trade Date":"2025-05-30",
     "Pair":"EURUSD",
     "Order":"PUT",
@@ -838,15 +829,6 @@
   },
   {
     "Trade Date":"2025-07-08",
-    "Pair":"GBPUSD",
-    "Order":"CALL",
-    "Price":1.39,
-    "Volume":30000000.0,
-    "Expiry":"2025-10-16",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-08",
     "Pair":"USDCAD",
     "Order":"PUT",
     "Price":1.39,
@@ -1073,15 +1055,6 @@
   {
     "Trade Date":"2025-07-15",
     "Pair":"AUDUSD",
-    "Order":"CALL",
-    "Price":0.67,
-    "Volume":30000000.0,
-    "Expiry":"2025-10-16",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-15",
-    "Pair":"AUDUSD",
     "Order":"PUT",
     "Price":0.63,
     "Volume":100000000.0,
@@ -1136,29 +1109,11 @@
   {
     "Trade Date":"2025-07-16",
     "Pair":"EURUSD",
-    "Order":"CALL",
-    "Price":1.203,
-    "Volume":175000000.0,
-    "Expiry":"2025-10-16",
-    "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-07-16",
-    "Pair":"EURUSD",
     "Order":"PUT",
     "Price":1.17,
     "Volume":50000000.0,
     "Expiry":"2026-05-14",
     "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-16",
-    "Pair":"USDCAD",
-    "Order":"PUT",
-    "Price":1.33,
-    "Volume":150000000.0,
-    "Expiry":"2025-10-16",
-    "IsBlockTrade":true
   },
   {
     "Trade Date":"2025-07-16",
@@ -1191,27 +1146,9 @@
     "Trade Date":"2025-07-16",
     "Pair":"USDJPY",
     "Order":"PUT",
-    "Price":139.0,
-    "Volume":50000000.0,
-    "Expiry":"2025-10-16",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-16",
-    "Pair":"USDJPY",
-    "Order":"PUT",
     "Price":142.0,
     "Volume":23000000.0,
     "Expiry":"2026-05-19",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-16",
-    "Pair":"USDJPY",
-    "Order":"PUT",
-    "Price":144.0,
-    "Volume":50000000.0,
-    "Expiry":"2025-10-16",
     "IsBlockTrade":false
   },
   {
