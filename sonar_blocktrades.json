@@ -702,24 +702,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-07-03",
-    "Pair":"USDJPY",
-    "Order":"CALL",
-    "Price":137.5,
-    "Volume":35000000.0,
-    "Expiry":"2025-10-17",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-03",
-    "Pair":"USDJPY",
-    "Order":"PUT",
-    "Price":152.5,
-    "Volume":35000000.0,
-    "Expiry":"2025-10-17",
-    "IsBlockTrade":false
-  },
-  {
     "Trade Date":"2025-07-07",
     "Pair":"EURCHF",
     "Order":"PUT",
