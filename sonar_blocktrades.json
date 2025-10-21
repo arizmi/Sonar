@@ -1048,8 +1048,8 @@
     "Pair":"EURJPY",
     "Order":"PUT",
     "Price":160.0,
-    "Volume":110000000.0,
-    "Expiry":"2025-10-21",
+    "Volume":55000000.0,
+    "Expiry":"2025-10-24",
     "IsBlockTrade":false
   },
   {
