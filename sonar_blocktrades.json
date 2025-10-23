@@ -324,24 +324,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-23",
-    "Pair":"USDCAD",
-    "Order":"CALL",
-    "Price":1.3,
-    "Volume":517500000.0,
-    "Expiry":"2025-10-23",
-    "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-06-23",
-    "Pair":"USDCAD",
-    "Order":"CALL",
-    "Price":1.35,
-    "Volume":230000000.0,
-    "Expiry":"2025-10-23",
-    "IsBlockTrade":true
-  },
-  {
     "Trade Date":"2025-06-25",
     "Pair":"AUDUSD",
     "Order":"CALL",
