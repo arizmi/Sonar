@@ -453,15 +453,6 @@
     "Trade Date":"2025-07-01",
     "Pair":"EURUSD",
     "Order":"CALL",
-    "Price":1.19,
-    "Volume":5000000.0,
-    "Expiry":"2025-10-29",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"EURUSD",
-    "Order":"CALL",
     "Price":1.2,
     "Volume":5000000.0,
     "Expiry":"2025-11-21",
@@ -474,15 +465,6 @@
     "Price":1.22,
     "Volume":20000000.0,
     "Expiry":"2026-07-01",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"EURUSD",
-    "Order":"CALL",
-    "Price":1.23,
-    "Volume":8000000.0,
-    "Expiry":"2025-10-29",
     "IsBlockTrade":false
   },
   {
