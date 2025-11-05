@@ -721,15 +721,6 @@
   },
   {
     "Trade Date":"2025-07-10",
-    "Pair":"EURUSD",
-    "Order":"PUT",
-    "Price":1.16,
-    "Volume":20000000.0,
-    "Expiry":"2025-11-05",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-10",
     "Pair":"GBPUSD",
     "Order":"PUT",
     "Price":1.27,
