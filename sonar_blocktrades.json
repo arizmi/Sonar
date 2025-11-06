@@ -586,24 +586,6 @@
   },
   {
     "Trade Date":"2025-07-08",
-    "Pair":"AUDUSD",
-    "Order":"PUT",
-    "Price":0.6,
-    "Volume":80000000.0,
-    "Expiry":"2025-11-06",
-    "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-07-08",
-    "Pair":"AUDUSD",
-    "Order":"PUT",
-    "Price":0.63,
-    "Volume":80000000.0,
-    "Expiry":"2025-11-06",
-    "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-07-08",
     "Pair":"EURJPY",
     "Order":"CALL",
     "Price":172.4,
