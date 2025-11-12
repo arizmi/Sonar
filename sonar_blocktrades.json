@@ -100,15 +100,6 @@
   },
   {
     "Trade Date":"2025-06-05",
-    "Pair":"NZDUSD",
-    "Order":"PUT",
-    "Price":0.5975,
-    "Volume":100000000.0,
-    "Expiry":"2025-11-12",
-    "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-06-05",
     "Pair":"USDMXN",
     "Order":"CALL",
     "Price":22.21,
@@ -303,15 +294,6 @@
     "Price":1.19,
     "Volume":100000000.0,
     "Expiry":"2026-06-25",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-25",
-    "Pair":"GBPUSD",
-    "Order":"PUT",
-    "Price":1.28,
-    "Volume":100000000.0,
-    "Expiry":"2025-11-12",
     "IsBlockTrade":false
   },
   {
@@ -618,15 +600,6 @@
     "Price":1.4,
     "Volume":25000000.0,
     "Expiry":"2026-01-08",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-10",
-    "Pair":"AUDUSD",
-    "Order":"CALL",
-    "Price":0.675,
-    "Volume":23500000.0,
-    "Expiry":"2025-11-12",
     "IsBlockTrade":false
   },
   {
