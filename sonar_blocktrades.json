@@ -687,15 +687,6 @@
     "Trade Date":"2025-07-11",
     "Pair":"EURUSD",
     "Order":"PUT",
-    "Price":1.13,
-    "Volume":30000000.0,
-    "Expiry":"2025-11-13",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-11",
-    "Pair":"EURUSD",
-    "Order":"PUT",
     "Price":1.18,
     "Volume":30000000.0,
     "Expiry":"2026-06-11",
@@ -727,15 +718,6 @@
     "Volume":30000000.0,
     "Expiry":"2026-04-27",
     "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-15",
-    "Pair":"AUDUSD",
-    "Order":"PUT",
-    "Price":0.63,
-    "Volume":100000000.0,
-    "Expiry":"2025-11-13",
-    "IsBlockTrade":true
   },
   {
     "Trade Date":"2025-07-15",
