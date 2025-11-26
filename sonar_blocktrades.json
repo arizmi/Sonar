@@ -54,42 +54,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-03",
-    "Pair":"EURUSD",
-    "Order":"PUT",
-    "Price":1.069,
-    "Volume":2500000.0,
-    "Expiry":"2025-11-26",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-03",
-    "Pair":"GBPUSD",
-    "Order":"PUT",
-    "Price":1.253,
-    "Volume":7000000.0,
-    "Expiry":"2025-11-26",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-04",
-    "Pair":"EURUSD",
-    "Order":"CALL",
-    "Price":1.155,
-    "Volume":20000000.0,
-    "Expiry":"2025-11-26",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-04",
-    "Pair":"EURUSD",
-    "Order":"CALL",
-    "Price":1.23,
-    "Volume":30000000.0,
-    "Expiry":"2025-11-26",
-    "IsBlockTrade":false
-  },
-  {
     "Trade Date":"2025-06-05",
     "Pair":"GBPUSD",
     "Order":"CALL",
@@ -259,15 +223,6 @@
     "Volume":52500000.0,
     "Expiry":"2026-01-22",
     "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-06-25",
-    "Pair":"AUDUSD",
-    "Order":"PUT",
-    "Price":0.625,
-    "Volume":50000000.0,
-    "Expiry":"2025-11-26",
-    "IsBlockTrade":false
   },
   {
     "Trade Date":"2025-06-25",
@@ -457,15 +412,6 @@
     "Volume":100000000.0,
     "Expiry":"2026-04-08",
     "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-07-07",
-    "Pair":"USDJPY",
-    "Order":"CALL",
-    "Price":144.75,
-    "Volume":100000000.0,
-    "Expiry":"2025-11-26",
-    "IsBlockTrade":false
   },
   {
     "Trade Date":"2025-07-09",
