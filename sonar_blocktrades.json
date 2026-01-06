@@ -327,15 +327,6 @@
     "Trade Date":"2025-07-01",
     "Pair":"USDMXN",
     "Order":"CALL",
-    "Price":18.5,
-    "Volume":60000000.0,
-    "Expiry":"2026-01-06",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"USDMXN",
-    "Order":"CALL",
     "Price":19.841,
     "Volume":7000000.0,
     "Expiry":"2027-04-14",
