@@ -333,15 +333,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-07-03",
-    "Pair":"EURUSD",
-    "Order":"CALL",
-    "Price":1.175,
-    "Volume":30000000.0,
-    "Expiry":"2026-01-09",
-    "IsBlockTrade":false
-  },
-  {
     "Trade Date":"2025-07-07",
     "Pair":"EURUSD",
     "Order":"PUT",
