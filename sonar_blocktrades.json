@@ -91,15 +91,6 @@
   },
   {
     "Trade Date":"2025-06-10",
-    "Pair":"USDCHF",
-    "Order":"PUT",
-    "Price":0.7925,
-    "Volume":50000000.0,
-    "Expiry":"2026-02-04",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-10",
     "Pair":"USDJPY",
     "Order":"CALL",
     "Price":140.5,
