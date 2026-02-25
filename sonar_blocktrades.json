@@ -171,15 +171,6 @@
     "IsBlockTrade":true
   },
   {
-    "Trade Date":"2025-06-25",
-    "Pair":"USDMXN",
-    "Order":"CALL",
-    "Price":19.44,
-    "Volume":7000000.0,
-    "Expiry":"2026-02-25",
-    "IsBlockTrade":false
-  },
-  {
     "Trade Date":"2025-06-27",
     "Pair":"USDJPY",
     "Order":"",
@@ -312,15 +303,6 @@
     "Price":1.19,
     "Volume":30000000.0,
     "Expiry":"2026-03-12",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-10",
-    "Pair":"USDCHF",
-    "Order":"CALL",
-    "Price":0.86,
-    "Volume":100000000.0,
-    "Expiry":"2026-02-25",
     "IsBlockTrade":false
   },
   {
