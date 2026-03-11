@@ -90,24 +90,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-11",
-    "Pair":"USDCAD",
-    "Order":"CALL",
-    "Price":1.348,
-    "Volume":12132000.0,
-    "Expiry":"2026-03-11",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-11",
-    "Pair":"USDCAD",
-    "Order":"CALL",
-    "Price":1.3485,
-    "Volume":5000000.0,
-    "Expiry":"2026-03-11",
-    "IsBlockTrade":false
-  },
-  {
     "Trade Date":"2025-06-13",
     "Pair":"AUDNZD",
     "Order":"PUT",
@@ -124,15 +106,6 @@
     "Volume":200000000.0,
     "Expiry":"2026-03-16",
     "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-06-23",
-    "Pair":"NZDUSD",
-    "Order":"PUT",
-    "Price":0.569,
-    "Volume":15000000.0,
-    "Expiry":"2026-03-11",
-    "IsBlockTrade":false
   },
   {
     "Trade Date":"2025-06-25",
