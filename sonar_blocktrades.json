@@ -90,15 +90,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-13",
-    "Pair":"AUDNZD",
-    "Order":"PUT",
-    "Price":1.065,
-    "Volume":105000000.0,
-    "Expiry":"2026-03-13",
-    "IsBlockTrade":true
-  },
-  {
     "Trade Date":"2025-06-16",
     "Pair":"USDCAD",
     "Order":"PUT",
