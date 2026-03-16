@@ -90,15 +90,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-16",
-    "Pair":"USDCAD",
-    "Order":"PUT",
-    "Price":1.505,
-    "Volume":200000000.0,
-    "Expiry":"2026-03-16",
-    "IsBlockTrade":true
-  },
-  {
     "Trade Date":"2025-06-25",
     "Pair":"EURUSD",
     "Order":"PUT",
