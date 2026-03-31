@@ -108,15 +108,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-30",
-    "Pair":"AUDUSD",
-    "Order":"PUT",
-    "Price":0.6,
-    "Volume":150000000.0,
-    "Expiry":"2026-03-31",
-    "IsBlockTrade":true
-  },
-  {
     "Trade Date":"2025-07-01",
     "Pair":"EURGBP",
     "Order":"PUT",
