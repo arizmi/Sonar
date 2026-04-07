@@ -154,15 +154,6 @@
   },
   {
     "Trade Date":"2025-07-07",
-    "Pair":"EURUSD",
-    "Order":"PUT",
-    "Price":1.1,
-    "Volume":85000000.0,
-    "Expiry":"2026-04-07",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-07",
     "Pair":"NZDUSD",
     "Order":"PUT",
     "Price":0.55,
