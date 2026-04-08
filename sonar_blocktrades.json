@@ -153,24 +153,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-07-07",
-    "Pair":"NZDUSD",
-    "Order":"PUT",
-    "Price":0.55,
-    "Volume":100000000.0,
-    "Expiry":"2026-04-08",
-    "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-07-07",
-    "Pair":"NZDUSD",
-    "Order":"PUT",
-    "Price":0.605,
-    "Volume":100000000.0,
-    "Expiry":"2026-04-08",
-    "IsBlockTrade":true
-  },
-  {
     "Trade Date":"2025-07-09",
     "Pair":"EURUSD",
     "Order":"CALL",
