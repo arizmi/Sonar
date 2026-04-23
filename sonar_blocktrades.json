@@ -64,15 +64,6 @@
   },
   {
     "Trade Date":"2025-06-10",
-    "Pair":"GBPUSD",
-    "Order":"PUT",
-    "Price":1.275,
-    "Volume":6000000.0,
-    "Expiry":"2026-04-23",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-10",
     "Pair":"USDJPY",
     "Order":"CALL",
     "Price":140.5,
