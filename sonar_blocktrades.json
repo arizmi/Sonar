@@ -9,15 +9,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-02",
-    "Pair":"USDJPY",
-    "Order":"CALL",
-    "Price":140.0,
-    "Volume":75000000.0,
-    "Expiry":"2026-05-13",
-    "IsBlockTrade":false
-  },
-  {
     "Trade Date":"2025-06-05",
     "Pair":"GBPUSD",
     "Order":"CALL",
@@ -150,15 +141,6 @@
     "Price":1.18,
     "Volume":30000000.0,
     "Expiry":"2026-06-11",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-11",
-    "Pair":"USDCAD",
-    "Order":"PUT",
-    "Price":1.38,
-    "Volume":50000000.0,
-    "Expiry":"2026-05-13",
     "IsBlockTrade":false
   },
   {
