@@ -145,24 +145,6 @@
   },
   {
     "Trade Date":"2025-07-16",
-    "Pair":"USDJPY",
-    "Order":"PUT",
-    "Price":132.0,
-    "Volume":33500000.0,
-    "Expiry":"2026-05-19",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-16",
-    "Pair":"USDJPY",
-    "Order":"PUT",
-    "Price":142.0,
-    "Volume":23000000.0,
-    "Expiry":"2026-05-19",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-16",
     "Pair":"USDSEK",
     "Order":"CALL",
     "Price":10.3,
