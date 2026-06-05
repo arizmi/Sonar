@@ -10,15 +10,6 @@
   },
   {
     "Trade Date":"2025-06-05",
-    "Pair":"GBPUSD",
-    "Order":"CALL",
-    "Price":1.3559,
-    "Volume":10000000.0,
-    "Expiry":"2026-06-05",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-06-05",
     "Pair":"USDMXN",
     "Order":"CALL",
     "Price":22.21,
