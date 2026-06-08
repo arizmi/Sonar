@@ -133,14 +133,5 @@
     "Volume":30000000.0,
     "Expiry":"2026-06-11",
     "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-16",
-    "Pair":"USDSEK",
-    "Order":"CALL",
-    "Price":10.3,
-    "Volume":10000000.0,
-    "Expiry":"2026-06-08",
-    "IsBlockTrade":false
   }
 ]
