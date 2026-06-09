@@ -18,24 +18,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-06",
-    "Pair":"AUDUSD",
-    "Order":"PUT",
-    "Price":0.62,
-    "Volume":100000000.0,
-    "Expiry":"2026-06-09",
-    "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-06-09",
-    "Pair":"USDJPY",
-    "Order":"PUT",
-    "Price":148.5,
-    "Volume":50000000.0,
-    "Expiry":"2026-06-09",
-    "IsBlockTrade":false
-  },
-  {
     "Trade Date":"2025-06-10",
     "Pair":"USDJPY",
     "Order":"CALL",
