@@ -18,15 +18,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-10",
-    "Pair":"USDJPY",
-    "Order":"CALL",
-    "Price":140.5,
-    "Volume":5000000.0,
-    "Expiry":"2026-06-10",
-    "IsBlockTrade":false
-  },
-  {
     "Trade Date":"2025-06-11",
     "Pair":"USDCAD",
     "Order":"CALL",
