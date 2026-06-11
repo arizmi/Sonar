@@ -97,14 +97,5 @@
     "Volume":405000000.0,
     "Expiry":"2026-07-09",
     "IsBlockTrade":true
-  },
-  {
-    "Trade Date":"2025-07-11",
-    "Pair":"EURUSD",
-    "Order":"PUT",
-    "Price":1.18,
-    "Volume":30000000.0,
-    "Expiry":"2026-06-11",
-    "IsBlockTrade":false
   }
 ]
