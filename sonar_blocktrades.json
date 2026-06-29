@@ -27,15 +27,6 @@
     "IsBlockTrade":false
   },
   {
-    "Trade Date":"2025-06-27",
-    "Pair":"USDJPY",
-    "Order":"",
-    "Price":29.0,
-    "Volume":200000.0,
-    "Expiry":"2026-06-29",
-    "IsBlockTrade":false
-  },
-  {
     "Trade Date":"2025-07-01",
     "Pair":"EURGBP",
     "Order":"PUT",
