@@ -28,42 +28,6 @@
   },
   {
     "Trade Date":"2025-07-01",
-    "Pair":"EURGBP",
-    "Order":"PUT",
-    "Price":0.8745,
-    "Volume":20000000.0,
-    "Expiry":"2026-07-01",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"EURUSD",
-    "Order":"CALL",
-    "Price":1.22,
-    "Volume":20000000.0,
-    "Expiry":"2026-07-01",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"GBPUSD",
-    "Order":"PUT",
-    "Price":1.265,
-    "Volume":100000000.0,
-    "Expiry":"2026-07-01",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
-    "Pair":"GBPUSD",
-    "Order":"PUT",
-    "Price":1.3775,
-    "Volume":100000000.0,
-    "Expiry":"2026-07-01",
-    "IsBlockTrade":false
-  },
-  {
-    "Trade Date":"2025-07-01",
     "Pair":"USDMXN",
     "Order":"CALL",
     "Price":19.841,
